@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/menu/menu_note.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/menu/menu_note.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/menu/menu_notes_more.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/menu/menu_notes_more.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/menu/menu_about.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/menu/menu_about.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/menu/menu_notes_trash_more.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/menu/menu_notes_trash_more.xml"
+    }
+]

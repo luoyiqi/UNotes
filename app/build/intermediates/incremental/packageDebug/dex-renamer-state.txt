@@ -1,0 +1,7 @@
+#Thu Nov 24 20:17:05 ICT 2016
+base.0=/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_925ca45294452c8fd1dd1e38fc43159dccd63899
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc78b1427d628d8e4f8d8880c9cbd76af348a06d/classes.dex
+base.1=/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc78b1427d628d8e4f8d8880c9cbd76af348a06d
+file.0=/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_925ca45294452c8fd1dd1e38fc43159dccd63899/classes.dex

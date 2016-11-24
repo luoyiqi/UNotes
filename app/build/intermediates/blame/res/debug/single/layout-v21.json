@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/layout-v21/notes_item_layout.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/layout-v21/notes_item_layout.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/layout-v21/mp_preference.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/UNotes/md-preference/unspecified/res/layout-v21/mp_preference.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/layout-v21/activity_about.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/layout-v21/activity_about.xml"
+    }
+]

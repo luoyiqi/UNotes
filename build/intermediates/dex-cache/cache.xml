@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_3053735d338dc075b749ac7e5639fa219a07b55e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_426643d48fd95ed85c684274a1109e09a5b2d8a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_a5359ab3911557fcb5ccb3afe4a71c87b34f1674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.2/de8416eda7b2fd7c25836b140c39e1cbf10542f6/dagger-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.0.2_2cfa5996e5ee14d7b717a426459dc4ebe029a480/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.0.1_fc0a4208120af065e6697227b66912a321766697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.evernote/evernote-api/1.25.1/760d97a6ea6d782317dfa71b2a408cdb20b423a7/evernote-api-1.25.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="760d97a6ea6d782317dfa71b2a408cdb20b423a7">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/evernote-api-1.25.1_80875146aa47036c7721ff849a69e2cc1ee38da3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_cfd1224916a65af86042a27eaab2d34b8f6f691d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72e731f142bf069876502ce7615d1fb2d5b01b47">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_925ca45294452c8fd1dd1e38fc43159dccd63899/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_e389f044b91a5f65facf87b4c25c140ede01047b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-2.4.0_3388ba396cdad6ecb58f56f9925705b4b3a032f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f3c772fb6124c3b73d607348e45906363f7288f">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc78b1427d628d8e4f8d8880c9cbd76af348a06d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5ae30ab253dafcf501f0855645b0e72b8a5d47a">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.rengwuxian.materialedittext-library-2.1.3_44ce162ba0b7c2200cb58a236628a34a8fc47d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.4.0_69ffd18771e03596633c1c5ed14adcd296b826d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_f6145088a122b873d17b7983fd4a657806bcba04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_0ddf428aa072036b39d4fe09953cc6a280216fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/net.vrallev.android/android-task/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9a5045eeb24d578667adddea22ca1e385bc0ddea">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.vrallev.android-android-task-1.0.4_dec096b2df2fe5c14dce331ff5798ff154a85852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_d48de35a920dbfe97a863511c2d0ddf995da1305/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.0.14_47a9997b0091b8908c04a09a1c6126bcbb6178a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_5361a71e1fa50928638a946be9413f89789a8b43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_60ffb29d2319542e12423df188c96814c2f6e446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.3_9efe919281b3161b60a2b6db2412a40d3cf95c56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_c73944e03522561bab7882944b9ba187009721ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/.gradle/caches/modules-2/files-2.1/org.scribe/scribe/1.3.5/a3b3deded9d241d9f2c8aa9c9bcd90ad29e2581e/scribe-1.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a3b3deded9d241d9f2c8aa9c9bcd90ad29e2581e">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/scribe-1.3.5_ff6ef1b081a609ce9a7b7831baefd31f03794a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75c54c470e19b251749e6e6c2cf3d73c0b50aa64">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.5_0c9f766d622264c1e543f73853355bbfdb2093d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.balysv-material-ripple-1.0.2_858765f56f0e73f3763ba57ba7655a75a5b1af08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_ceec67da1f774a433beba70712b2098135eb1626/classes.dex" />
+    </item>
+
+</items>

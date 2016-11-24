@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/xml/searchable.xml"
+    }
+]

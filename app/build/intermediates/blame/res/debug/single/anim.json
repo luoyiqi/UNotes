@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/activity_down_up_anim.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/anim/activity_down_up_anim.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/activity_right_left_anim.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/anim/activity_right_left_anim.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/activity_exit_anim.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/anim/activity_exit_anim.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/activity_up_down_anim.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/anim/activity_up_down_anim.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/activity_left_right_anim.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/src/main/res/anim/activity_left_right_anim.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_out.xml"
+    }
+]

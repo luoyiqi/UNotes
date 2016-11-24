@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="3753487794432"
+    token="-3772801141251363321"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="1609630277924"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/thongleeuteam/Downloads/UNotes/app/build/outputs/apk/notes_beta.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3753487794432"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/thongleeuteam/Downloads/UNotes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
